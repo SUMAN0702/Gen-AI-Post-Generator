@@ -34,7 +34,8 @@ The LinkedIn Post Generator leverages AI and few-shot learning to create context
 ## 🏗️ Architecture
 
 ### High-Level Architecture
-![architecture](https://github.com/user-attachments/assets/17501b76-a38e-437d-8442-7b08869ff5b6)
+
+<img width="2752" height="1536" alt="High_level_Architecture" src="https://github.com/user-attachments/assets/3fe204d5-d275-4b59-8490-cca0c4d9c267" />
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -123,6 +124,8 @@ linkedin-post-generator/
 ```
 
 ## 🛠️ Technologies Used
+
+<img width="2752" height="1536" alt="Tech_Stack" src="https://github.com/user-attachments/assets/17b83c31-dc1c-4e1d-9f3c-6a658d4aba0c" />
 
 ### Core Technologies
 
@@ -354,13 +357,13 @@ st.markdown("""
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Karthik**
-- Role: Data Scientist, State of Michigan
-- Expertise: Machine Learning, AI Applications, Data Science
+**Sairam Suman Bathini**
+- Role: Research Assistant
+- Expertise: AI Applications, Data Science
 
 ## 🙏 Acknowledgments
 
